@@ -63,8 +63,8 @@ class MainActivity : AppCompatActivity() {
 
     companion object{
         val BASE_URL = "https://api.openweathermap.org/"
-        val APP_ID = "b32d480065846e8735df7dff37346b88"
-        val CITY = "Kroya,ID"
+        val APP_ID = "replace with your API_KEY"
+        val CITY = "Kroya,ID" 
         val UNITS = "metric"
     }
 }
